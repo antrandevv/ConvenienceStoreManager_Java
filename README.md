@@ -1,4 +1,4 @@
-# SwiftPick - Ứng dụng Quản lý Bán hàng Cửa hàng Tiện lợi
+# SwiftPick - ỨNG DỤNG QUẢN LÝ BÁN HÀNG CỬA HÀNG TIỆN LỢI
 
 ## Thông tin dự án
 * **Cơ quan chủ quản:** Bộ Công thương - Trường Đại học Công nghiệp Thành phố Hồ Chí Minh
@@ -9,11 +9,11 @@
 
 ---
 
-## Bảng phân công & Đánh giá thành viên
+## Bảng phân công và Đánh giá thành viên
 
 | STT | Họ và tên | MSSV | Lớp | Nhiệm vụ | Hoàn thành |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Lê Thành Danh | 24667441 | DHKTPM20A | Quy trình bán hàng, In & tìm kiếm hóa đơn, Xem chi tiết hóa đơn. | 100% |
+| 1 | Lê Thành Danh | 24667441 | DHKTPM20A | Quy trình bán hàng, In và tìm kiếm hóa đơn, Xem chi tiết hóa đơn. | 100% |
 | 2 | Lê Thành Đạt | 24663071 | DHKTPM20A | Quy trình nhập hàng, Phân quyền người dùng, Xem lịch sử nhập hàng & thông tin nhân viên. | 100% |
 | 3 | Trần Phúc An | 24664811 | DHKTPM20A | Thống kê doanh thu (tuần/tháng/năm), Quản lý nhân viên (ca làm, lương, lọc nâng cao), Quản lý khách hàng (tích điểm, lọc nâng cao). | 100% |
 | 4 | Phùng Tùng Lâm | 24659221 | DHKTPM20A | Xử lý tích điểm khách hàng, Quản lý sản phẩm (lọc nâng cao), Quản lý nhà cung cấp (bộ lọc). | 100% |
@@ -29,8 +29,8 @@
   * **Người quản lý:** Điều hành hoạt động, quản lý nhân sự, kho hàng, xem thống kê doanh thu và có toàn quyền hệ thống.
 
 ### Quy trình nghiệp vụ chính
-* **Bán hàng & Tích điểm:** Tra cứu khách hàng qua SĐT $\rightarrow$ Tích điểm tự động (100 VNĐ = 1 điểm) $\rightarrow$ Áp dụng giảm giá (tối đa 100,000 VNĐ/hóa đơn) $\rightarrow$ Thanh toán & Tự động trừ tồn kho $\rightarrow$ Xuất hóa đơn in file PDF.
-* **Quản trị & Nhân sự:** Thêm/sửa/khóa tài khoản nhân viên, quản lý nhập kho (cập nhật số lượng, giá vốn, HSD), điều chỉnh hóa đơn sai sót và thống kê doanh thu theo Tuần/Tháng/Năm.
+* **Bán hàng và Tích điểm:** Tra cứu khách hàng qua SĐT $\rightarrow$ Tích điểm tự động (100 VNĐ = 1 điểm) $\rightarrow$ Áp dụng giảm giá (tối đa 100,000 VNĐ/hóa đơn) $\rightarrow$ Thanh toán & Tự động trừ tồn kho $\rightarrow$ Xuất hóa đơn in file PDF.
+* **Quản trị và Nhân sự:** Thêm/sửa/khóa tài khoản nhân viên, quản lý nhập kho (cập nhật số lượng, giá vốn, HSD), điều chỉnh hóa đơn sai sót và thống kê doanh thu theo Tuần/Tháng/Năm.
 
 ### Yêu cầu phi chức năng
 * **Bảo mật:** Cơ chế đăng nhập phân quyền rõ ràng (Ẩn các chức năng nhạy cảm như Lương, Doanh thu đối với nhân viên).
