@@ -11,12 +11,12 @@
 
 ## Bảng phân công và Đánh giá thành viên
 
-| STT | Họ và tên | MSSV | Lớp | Nhiệm vụ | Hoàn thành |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Lê Thành Danh | 24667441 | DHKTPM20A | Quy trình bán hàng, In và tìm kiếm hóa đơn, Xem chi tiết hóa đơn. | 100% |
-| 2 | Lê Thành Đạt | 24663071 | DHKTPM20A | Quy trình nhập hàng, Phân quyền người dùng, Xem lịch sử nhập hàng & thông tin nhân viên. | 100% |
-| 3 | Trần Phúc An | 24664811 | DHKTPM20A | Thống kê doanh thu (tuần/tháng/năm), Quản lý nhân viên (ca làm, lương, lọc nâng cao), Quản lý khách hàng (tích điểm, lọc nâng cao). | 100% |
-| 4 | Phùng Tùng Lâm | 24659221 | DHKTPM20A | Xử lý tích điểm khách hàng, Quản lý sản phẩm (lọc nâng cao), Quản lý nhà cung cấp (bộ lọc). | 100% |
+| STT | Họ và tên | Nhiệm vụ |
+| :--- | :--- | :--- |
+| 1 | Lê Thành Danh | Quy trình bán hàng, In và tìm kiếm hóa đơn, Xem chi tiết hóa đơn. |
+| 2 | Lê Thành Đạt  | Quy trình nhập hàng, Phân quyền người dùng, Xem lịch sử nhập hàng & thông tin nhân viên. |
+| 3 | Trần Phúc An | Thống kê doanh thu (tuần/tháng/năm), Quản lý nhân viên (ca làm, lương, lọc nâng cao), Quản lý khách hàng (tích điểm, lọc nâng cao). |
+| 4 | Phùng Tùng Lâm  | Xử lý tích điểm khách hàng, Quản lý sản phẩm (lọc nâng cao), Quản lý nhà cung cấp (bộ lọc). |
 
 ---
 
